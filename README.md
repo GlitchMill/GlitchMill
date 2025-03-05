@@ -21,7 +21,7 @@ Hello There, I am <a href='https://github.com/GlitchMill'>GlitchMill </a>
 <div align="center">
   <img src="https://profile-counter.glitch.me/GlitchMill/count.svg?"  />
 </div>
-
+<br>
 <!--  Not Feeling Like it ngl
 <img src="https://raw.githubusercontent.com/GlitchMill/GlitchMill/output/snake.svg" alt="Snake animation" /> -->
 
